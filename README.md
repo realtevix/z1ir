@@ -7,7 +7,7 @@
 Welcome to my Profile! 👋
 <br>
 
-![](https://img.shields.io/badge/Profile_views-239,461-blue?style=flat-square)
+[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz1ir_GITHUB&count_bg=%23239461&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <br>
 <br>
@@ -18,7 +18,11 @@ Welcome to my Profile! 👋
 ---
 
 ### 🧰 Languages and Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,py,cpp,discordjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,css,py,cpp,discordjs&theme=dark" alt="My Skills Animated" />
 </p>
+
+---
+
 </div>
