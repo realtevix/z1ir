@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💙 mavrez
+# 💙 z1ir
 
 **Developer**
 
@@ -12,8 +12,8 @@ Welcome to my Profile! 👋
 <br>
 <br>
 
-[![Discord](https://img.shields.io/badge/DISCORD-mavrezxd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/326615161794461698)
-[![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mavrezxd)
+[![Discord](https://img.shields.io/badge/DISCORD-z1ir-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/366093700163567648)
+[![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/z1ir)
 
 ---
 
