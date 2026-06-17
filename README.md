@@ -1,13 +1,10 @@
 <div align="center">
 
-# 💙 z1ir
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%92%99+z1ir;Developer;Welcome+to+my+Profile!+%F0%9F%91%8B" alt="Typing SVG" />
 
-**Developer**
-
-Welcome to my Profile! 👋
 <br>
 
-[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz1ir_GITHUB&count_bg=%23239461&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=z1ir&color=007acc&style=flat-square&label=PROFILE+VIEWS)
 
 <br>
 <br>
@@ -18,11 +15,15 @@ Welcome to my Profile! 👋
 ---
 
 ### 🧰 Languages and Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,py,cpp,discordjs&theme=dark" alt="My Skills Animated" />
+  <img src="https://skillicons.dev/icons?i=js,css,py,cpp,discordjs&theme=dark" />
 </p>
 
 ---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z1ir&theme=react-dark&area=true&category=commits" alt="GitHub Activity Graph" width="100%" />
+</p>
 
 </div>
