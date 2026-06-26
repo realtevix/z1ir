@@ -4,13 +4,13 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=z1ir&color=007acc&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=forensictools&color=007acc&style=flat-square&label=PROFILE+VIEWS)
 
 <br>
 <br>
 
-[![Discord](https://img.shields.io/badge/DISCORD-z1ir-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/366093700163567648)
-[![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/z1ir)
+[![Discord](https://img.shields.io/badge/DISCORD-forensictools-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/366093700163567648)
+[![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/forensictools1)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z1ir&theme=react-dark&area=true&category=commits" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forensictools&theme=react-dark&area=true&category=commits" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 </div>
