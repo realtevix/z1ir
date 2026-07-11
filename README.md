@@ -1,21 +1,19 @@
-<div align="center">
+# Hi, I'm z1ir 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%92%99+z1ir;Developer;Welcome+to+my+Profile!+%F0%9F%91%8B" alt="Typing SVG" />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=z1ir&color=007acc&style=flat-square&label=PROFILE+VIEWS)
-
-<br>
-<br>
-
-[![Discord](https://img.shields.io/badge/DISCORD-z1ir-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/366093700163567648)
-[![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/z1ir)
+> Developer passionate about game modding, automation, and C++. 
+> Focused on clean code and minimalist aesthetics.
 
 ---
 
-### 🧰 Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,py,cpp,discordjs&theme=dark" />
-</p>
-</div>
+### 🛠️ Technologies & Languages
+`C++` &nbsp;&middot;&nbsp; `JavaScript` &nbsp;&middot;&nbsp; `Python` &nbsp;&middot;&nbsp; `Node.js`
+
+---
+
+### 🌐 Connect with me
+* **Discord:** `z1ir`
+* **GitHub:** [z1ir](https://github.com/z1ir)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=z1ir&color=444444&style=flat-square" alt="views" />
