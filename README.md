@@ -1,4 +1,4 @@
-# Hi, I'm z1ir 👋
+# Hi, I'm realtevix 👋
 
 > Developer passionate about game modding, automation, and C++. 
 > Focused on clean code and minimalist aesthetics.
@@ -11,8 +11,7 @@
 ---
 
 ### 🌐 Connect with me
-* **Discord:** `z1ir`
-* **GitHub:** [z1ir](https://github.com/z1ir)
+* **Discord:** `realtevix`
 
 ---
 
